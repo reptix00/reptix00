@@ -13,11 +13,8 @@
 ###
 
 <div align="center">
-  <a href="https://discord.gg/qw236kWm" target="_blank">
+  <a href="[https://discord.gg/qw236kWm](https://discord.gg/y7qZwrQBa9)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://ko-fi.com/ludaro" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
 </div>
 
@@ -54,5 +51,4 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400" src="https://i.ibb.co/rbyGLbM/Whats-App-Bild-2024-01-24-um-12-47-34-273b49f9.jpg"  />
 </div>
